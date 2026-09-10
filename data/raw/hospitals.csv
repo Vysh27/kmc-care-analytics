@@ -1,0 +1,13 @@
+hospital_id,hospital_name,district,state,sncu_beds
+H01,Jaipur DH,Jaipur,Rajasthan,20
+H02,Jodhpur DH,Jodhpur,Rajasthan,18
+H03,Udaipur DH,Udaipur,Rajasthan,16
+H04,Kota DH,Kota,Rajasthan,14
+H05,Bikaner DH,Bikaner,Rajasthan,12
+H06,Ajmer DH,Ajmer,Rajasthan,15
+H07,Alwar DH,Alwar,Rajasthan,10
+H08,Bharatpur DH,Bharatpur,Rajasthan,12
+H09,Bhopal DH,Bhopal,Madhya Pradesh,18
+H10,Indore DH,Indore,Madhya Pradesh,20
+H11,Gwalior DH,Gwalior,Madhya Pradesh,14
+H12,Jabalpur DH,Jabalpur,Madhya Pradesh,12
